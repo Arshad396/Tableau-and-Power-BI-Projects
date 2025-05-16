@@ -46,16 +46,7 @@ Each subfolder contains the respective project’s files, a preview screenshot, 
 
 ---
 
-## 📊 Sample Projects Included
-
-| Project Name         | Tool     | Dataset Source            | Key Insights |
-|----------------------|----------|---------------------------|--------------|
-| Sales Performance    | Power BI | Sample Superstore         | Region-wise sales, profit trends |
-| COVID-19 Tracker     | Tableau  | WHO / John Hopkins        | Global case trends & forecasting |
-| Customer Segmentation| Power BI | Marketing Campaign Dataset| Cluster-based segmentation |
-| HR Analytics         | Tableau  | HR Dataset                | Attrition, satisfaction, age trends |
-
-> ✨ *More projects are added regularly as part of continuous learning.*
+> ✨ *projects are added regularly as part of continuous learning.*
 
 ---
 
