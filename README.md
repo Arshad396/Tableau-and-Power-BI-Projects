@@ -4,7 +4,7 @@ This repository contains interactive dashboards and data visualizations created 
 
 ---
 
-## 🧰 Tools Used
+## 🧰 Tools Used:
 
 - **Tableau Public / Desktop** – for building interactive dashboards and storyboards.
 - **Microsoft Power BI** – for dynamic reports, DAX-based calculations, and data modeling.
@@ -13,7 +13,7 @@ This repository contains interactive dashboards and data visualizations created 
 
 ---
 
-## 📁 Project Structure
+## 📁 Project Structure:
 
 📂 Tableau_Dashboards/
 └── Project_Name/
@@ -35,7 +35,7 @@ Each subfolder contains the respective project’s files, a preview screenshot, 
 
 ---
 
-## 📌 How to View the Dashboards
+## 📌 How to View the Dashboards:
 
 ### Tableau
 - Download `.twbx` files and open them using **Tableau Desktop**, or
